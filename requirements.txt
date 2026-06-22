@@ -3,7 +3,7 @@
 # aprendizaje profundo para la predicción de precios de acciones
 # ============================================================
 # Entorno: Python 3.10+
-# Para crear el entorno virtual: ver README_ENTORNO.md
+# Para crear el entorno virtual: ver README.md
 
 # --- Datos y manipulación ---
 pandas>=2.0.0
