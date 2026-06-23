@@ -1,0 +1,6 @@
+Ticker,Horizon,Model1,Model2,DM_stat,p_value,Conclusion
+AAPL,5d,Naïve,ARIMA (sin leakage),0.18346253018845707,0.8545071835813529,sin diferencia
+JPM,5d,Naïve,ARIMA (sin leakage),0.5819057283013555,0.5608868048412343,sin diferencia
+JNJ,5d,Naïve,ARIMA (sin leakage),0.7246592715240111,0.46899340545412027,sin diferencia
+XOM,5d,Naïve,ARIMA (sin leakage),0.8862261224383631,0.3759053448660654,sin diferencia
+BTC,5d,Naïve,ARIMA (sin leakage),-2.224562965822991,0.02639860785155078,Naïve mejor
