@@ -1,4 +1,4 @@
-# Predicción de precios de acciones con modelos tradicionales y de aprendizaje profundo
+#  Análisis Comparativo de Modelos Tradicionales y de Aprendizaje Profundo para la Predicción de Precios de Acciones
 
 Código y datos del Trabajo de Fin de Grado de **Enrique Crespillo Ramos**
 (Grado en Matemáticas y Ciencia de Datos, Facultad de Ciencias Matemáticas, UCM, curso 2025/2026):
